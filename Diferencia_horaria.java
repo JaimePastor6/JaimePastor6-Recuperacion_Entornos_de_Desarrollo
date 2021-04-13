@@ -3,6 +3,7 @@ import java.util.Scanner;
 //Cambio hecho desde dirInsti
 //Segundo cambio hecho desde dirCasa esta vez para crear conflictos
 //Mismo cambio en las dos carpetas
+//Cambio en la misma linea pero con distinto contenido dirCasa
 public class Diferencia_horaria {
     static Scanner sc = new Scanner(System.in);
 
