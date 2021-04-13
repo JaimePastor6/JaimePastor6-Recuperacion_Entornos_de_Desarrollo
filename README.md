@@ -25,3 +25,13 @@ Trabajo sin conflictos, pasos realizados:
   -En el git bash hacemos git add ., git commit -m "Cambio en dirCasa", git push 'url'.
   
   ![image](https://user-images.githubusercontent.com/72935966/114542758-983b2480-9c58-11eb-847a-91840ac097a2.png)
+  
+   -Desde la carpeta dirInsti hacemos git pull para actualizar nuestro proyecto
+   
+   ![image](https://user-images.githubusercontent.com/72935966/114543133-1697c680-9c59-11eb-8012-8df9a9d5f5f1.png)
+
+   -Realizamos un cambio en el proyecto desde dirInsti.
+   
+   -Desde el git bash hacemos git add ., git commit -m "Cambio hecho desde dirInti", git push 'url'.
+   
+   ![image](https://user-images.githubusercontent.com/72935966/114543526-99b91c80-9c59-11eb-9985-8f2895c17108.png)
