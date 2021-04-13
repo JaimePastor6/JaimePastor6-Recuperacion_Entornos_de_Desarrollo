@@ -74,7 +74,11 @@ Trabajo sin conflictos, pasos realizados:
 
     - Si hacemos el git push desde GitBash nos dice que el error es (fetch first).
     - Esta vez vamos a hacerlo desde el IntelliJ para ver como solucionar el error desde ahi.
-    - Aceptamos la opcion de merge que nos ofrece, hacemos un commit dandole al tick verde de arriba a la derecha (o Ctrl + K) y un push dandole a la flecha verde de al lado (o Ctrl+Mayús+K)
+    - 
+ ![image](https://user-images.githubusercontent.com/72935966/114551447-b5c1bb80-9c63-11eb-9d3f-884b192e5e68.png)
+ 
+    - El propio IntelliJ nos marca donde esta el error, elegimos cual de los dos queremos quedarnos, o ambos
+
 
 
     
