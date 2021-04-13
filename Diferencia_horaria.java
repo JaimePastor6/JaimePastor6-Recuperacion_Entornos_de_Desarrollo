@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //Cambio hecho desde dirCasa
+//Cambio hecho desde dirInsti
 public class Diferencia_horaria {
     static Scanner sc = new Scanner(System.in);
 
