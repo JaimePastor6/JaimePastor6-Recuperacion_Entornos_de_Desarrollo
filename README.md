@@ -66,7 +66,14 @@ Trabajo sin conflictos, pasos realizados:
   
   ![image](https://user-images.githubusercontent.com/72935966/114548153-aa6c9100-9c5f-11eb-8931-2909972e7047.png)
   
-  
+ Ahora realizamos un cambio en la misma linea pero con distinto contenido en cada carpeta
+ 
+    - Al intentar subirlo al repositorio nos da un error, si intentamos hacer el push directamente desde el IntelliJ, nos dice que antes debe hacerse un merge, y nos da la opcion de hacerlo desde ahi
+
+![image](https://user-images.githubusercontent.com/72935966/114549599-7b571f00-9c61-11eb-81a7-f486fe3616d9.png)
+
+    - Si hacemos el git push desde GitBash nos dice que el error es (fetch first).
+    - Esta vez vamos a hacerlo desde el IntelliJ para ver como solucionar el error desde ahi.
 
 
 
