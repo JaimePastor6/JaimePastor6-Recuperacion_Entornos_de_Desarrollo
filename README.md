@@ -12,7 +12,7 @@ Subir a un repositorio remoto un proyecto con código real, pasos realizados:
   -git push --set-upstream 'url' master
 
 
-###Ejercicio 2
+### Ejercicio 2
 
 Trabajo sin conflictos, pasos realizados:
 
