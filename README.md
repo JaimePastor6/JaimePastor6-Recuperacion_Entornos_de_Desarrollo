@@ -9,4 +9,4 @@ Subir a un repositorio remoto un proyecto con código real, pasos realizados:
   
   -git commit -m "Primer commit"
   
-  -git push --set-upstream <URL> master
+  -git push --set-upstream <url> master
