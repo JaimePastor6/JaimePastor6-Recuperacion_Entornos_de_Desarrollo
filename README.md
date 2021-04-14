@@ -74,8 +74,37 @@ Trabajo sin conflictos, pasos realizados:
 
     - Si hacemos el git push desde GitBash nos dice que el error es (fetch first).
     - Esta vez vamos a hacerlo desde el IntelliJ para ver como solucionar el error desde ahi.
+    - 
+ ![image](https://user-images.githubusercontent.com/72935966/114551447-b5c1bb80-9c63-11eb-9d3f-884b192e5e68.png)
+ 
+    - El propio IntelliJ nos marca donde esta el error, elegimos cual de los dos queremos quedarnos, o ambos
 
 
 
+## Ejercicio 4
+
+Crea un tag
+
+    - Para crear tags usaremos el comando git tag -a y git push --tags para subirlas
+   ![image](https://user-images.githubusercontent.com/72935966/114717640-85e2e880-9d35-11eb-87a5-0a9267de4bb8.png)
+
+    -Para movernos entre versiones usaremos git checkout + nombre de la version 
+    
+   ![image](https://user-images.githubusercontent.com/72935966/114718074-f7bb3200-9d35-11eb-855c-cffa343b5c25.png)
+
+    -Al intentar hacer un comit desde otra version nos da este error 
+    
+ ![image](https://user-images.githubusercontent.com/72935966/114718274-26390d00-9d36-11eb-896b-6cc03545c53e.png)
+ 
+    -git pull --tags desde dirInsti para recuperar las tags creadas
+    
+
+## Ejercicio 5
+
+ 
+ 
+ 
+
+   
     
     
