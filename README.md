@@ -83,7 +83,7 @@ Trabajo sin conflictos, pasos realizados:
 
 ## Ejercicio 4
 
-Crea un tag
+Etiquetas, localizar versiones
 
     - Para crear tags usaremos el comando git tag -a y git push --tags para subirlas
    ![image](https://user-images.githubusercontent.com/72935966/114717640-85e2e880-9d35-11eb-87a5-0a9267de4bb8.png)
@@ -101,9 +101,33 @@ Crea un tag
 
 ## Ejercicio 5
 
+Trabajo con ramas
+
+    - Creamos una rama y nos cambiamos a ella con git branck + nombre y git checkout + nombre 
+
+![image](https://user-images.githubusercontent.com/72935966/114719539-7d8bad00-9d37-11eb-9d8e-36aaadd6e45d.png)
+
+    - Desde la rama creada hacemos cambios en el archivo, git add ., git commit, y para subirlo git push origin 1
+   
+   ![image](https://user-images.githubusercontent.com/72935966/114720094-ff7bd600-9d37-11eb-9cf0-b6265ad952af.png)
+
+    -Al volver a la rama principal, hacer varios cambios e intentar subirlo nos da un error
+    
+[image](https://user-images.githubusercontent.com/72935966/114720472-55507e00-9d38-11eb-83b1-4e019744a519.png)
+
+
+    -Hacemos un git pull para actualizar las ramas y git push
  
+ ![image](https://user-images.githubusercontent.com/72935966/114721311-1a9b1580-9d39-11eb-83bb-5a67d93a08e8.png)
+
+    -Desde dirInsti hacemos un git branch --list para ver las ramas que tenemos 
+   
+  ![image](https://user-images.githubusercontent.com/72935966/114721742-82516080-9d39-11eb-806d-ff88d94fe897.png)
+
+    -Al cambiar de rama podemos ver los cambios realizados en esta desde dirCasa
+    -Desde la rama anteriormente creada hacemos git merge master para unir las dos ramas y despues git push.
  
- 
+![image](https://user-images.githubusercontent.com/72935966/114764052-c8bbb500-9d63-11eb-98d5-6626c323be57.png)
 
    
     
