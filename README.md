@@ -129,6 +129,6 @@ Trabajo con ramas
  
 ![image](https://user-images.githubusercontent.com/72935966/114764052-c8bbb500-9d63-11eb-98d5-6626c323be57.png)
 
-   
+    -Si hacemos git log pretty=oneline podemos ver los commits y todos los cambios realizados en distintas ramas o tags.
     
-    
+![image](https://user-images.githubusercontent.com/72935966/114764774-9e1e2c00-9d64-11eb-97fd-488bb5a07353.png)
